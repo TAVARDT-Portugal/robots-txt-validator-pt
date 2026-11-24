@@ -1,4 +1,4 @@
-# Verificador de Robots.txt | TAVARDT Portugal
+# Verificador de Robots.txt
 
 [![Verificador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Para verificar e simular o comportamento de rastreadores:
 ## Consultoria em Rastreabilidade e SEO Tecnico
 
 Para projetos corporativos de governanca de robots segundo Padroes Web e Protocolo de Exclusao de Robots, consulte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
