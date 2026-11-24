@@ -5,7 +5,7 @@
 
 Auditoria tecnica de ficheiros robots.txt, prevencao de bloqueios acidentais de motores de busca, governanca de rastreadores e diretivas de sitemap.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e indexacao da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e indexacao da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python robots_validator.py https://exemplo.pt -json
 Para verificar e simular o comportamento de rastreadores:
 
 * **Verificador de Robots.txt Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Rastreabilidade e SEO Tecnico
 
-Para projetos corporativos de governanca de robots segundo Padroes Web e Protocolo de Exclusao de Robots, consulte a **TAVARDT Portugal**.
+Para projetos corporativos de governanca de robots segundo Padroes Web e Protocolo de Exclusao de Robots, consulte a **TAVARDT**.
 
 ***
 
