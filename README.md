@@ -1,25 +1,26 @@
 # Verificador de Robots.txt
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria tecnica de ficheiros robots.txt, prevencao de bloqueios acidentais de motores de busca, governanca de rastreadores e diretivas de sitemap.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e indexacao da **TAVARDT**.
+Desenvolvido e mantido pela divisao de arquitetura semantica e indexacao da **TAVARDT Portugal**.
 
 ***
 
 ## Capacidades de Auditoria de Robots.txt
 
-* **Detecao de Bloqueios Acidentais**: Alertas criticos contra diretivas que impedem o rastreio legitimo de paginas institucionais.
+* **Deteção de Bloqueios Acidentais**: Alertas criticos contra diretivas que impedem o rastreio legitimo de paginas institucionais.
 * **Governanca de Robots de IA e Pesquisa**: Configuracao refinada para motores de busca e agentes autonomos de inteligencia artificial.
 * **Ligacao ao Sitemap XML**: Validacao da existencia e integridade do apontador `Sitemap:` no ficheiro.
-* **Inspecao de Regras de Diretiva**: Analise de instrucoes `Allow`, `Disallow` e parametros de frequencia `Crawl-delay`.
+* **Inspeção de Regras de Diretiva**: Análise de instrucoes `Allow`, `Disallow` e parametros de frequencia `Crawl-delay`.
 * **Indice de Eficiencia de Rastreio**: Pontuacao tecnica de 0 a 100 com passos claros de correcao de sintaxe.
 
 ***
 
-## Instalacao e Execucao
+## Instalação e Execucao
 
 Requer Python 3.8 ou superior, utilizando exclusivamente a biblioteca padrao.
 
@@ -52,4 +53,14 @@ Para projetos corporativos de governanca de robots segundo Padroes Web e Protoco
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
