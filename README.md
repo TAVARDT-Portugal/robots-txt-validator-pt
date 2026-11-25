@@ -6,8 +6,6 @@
 
 Ferramenta de governanca de rastreio web em Portugal, inspecionando diretivas de robots.txt, prevenindo esgotamento de crawl budget e protegendo rotas privadas.
 
-Desenvolvido e mantido pela divisao de indexacao web e normas digitais da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Auditoria de Robots.txt
@@ -38,15 +36,6 @@ python robots_validator.py https://exemplo.pt -json
 
 ***
 
-## Plataforma Online de Diagnostico
-
-Para verificar e simular o comportamento de rastreadores:
-
-* **Verificador de Robots.txt Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Rastreabilidade e SEO Tecnico
 
 Para projetos corporativos de governanca de robots segundo Padroes Web e Protocolo de Exclusao de Robots, consulte a **TAVARDT**.
@@ -64,7 +53,7 @@ Para projetos corporativos de governanca de robots segundo Padroes Web e Protoco
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
