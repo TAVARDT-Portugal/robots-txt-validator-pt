@@ -1,12 +1,12 @@
 # Verificador de Robots.txt
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Auditoria tecnica de ficheiros robots.txt, prevencao de bloqueios acidentais de motores de busca, governanca de rastreadores e diretivas de sitemap.
+Ferramenta de governanca de rastreio web em Portugal, inspecionando diretivas de robots.txt, prevenindo esgotamento de crawl budget e protegendo rotas privadas.
 
-Desenvolvido e mantido pela divisao de arquitetura semantica e indexacao da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de indexacao web e normas digitais da **TAVARDT Portugal**.
 
 ***
 
@@ -53,12 +53,19 @@ Para projetos corporativos de governanca de robots segundo Padroes Web e Protoco
 
 ***
 
-© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
 
-***
 
 ## Links Úteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
 * **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
 * **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
